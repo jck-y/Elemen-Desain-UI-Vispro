@@ -1,0 +1,17 @@
+C:\Users\Jacky K\Documents\Kampus\Vispro\Formulir\Formulir\bin\Debug\net7.0-windows\Formulir.exe
+C:\Users\Jacky K\Documents\Kampus\Vispro\Formulir\Formulir\bin\Debug\net7.0-windows\Formulir.deps.json
+C:\Users\Jacky K\Documents\Kampus\Vispro\Formulir\Formulir\bin\Debug\net7.0-windows\Formulir.runtimeconfig.json
+C:\Users\Jacky K\Documents\Kampus\Vispro\Formulir\Formulir\bin\Debug\net7.0-windows\Formulir.dll
+C:\Users\Jacky K\Documents\Kampus\Vispro\Formulir\Formulir\bin\Debug\net7.0-windows\Formulir.pdb
+C:\Users\Jacky K\Documents\Kampus\Vispro\Formulir\Formulir\obj\Debug\net7.0-windows\Formulir.Form1.resources
+C:\Users\Jacky K\Documents\Kampus\Vispro\Formulir\Formulir\obj\Debug\net7.0-windows\Formulir.Properties.Resources.resources
+C:\Users\Jacky K\Documents\Kampus\Vispro\Formulir\Formulir\obj\Debug\net7.0-windows\Formulir.csproj.GenerateResource.cache
+C:\Users\Jacky K\Documents\Kampus\Vispro\Formulir\Formulir\obj\Debug\net7.0-windows\Formulir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacky K\Documents\Kampus\Vispro\Formulir\Formulir\obj\Debug\net7.0-windows\Formulir.AssemblyInfoInputs.cache
+C:\Users\Jacky K\Documents\Kampus\Vispro\Formulir\Formulir\obj\Debug\net7.0-windows\Formulir.AssemblyInfo.cs
+C:\Users\Jacky K\Documents\Kampus\Vispro\Formulir\Formulir\obj\Debug\net7.0-windows\Formulir.csproj.CoreCompileInputs.cache
+C:\Users\Jacky K\Documents\Kampus\Vispro\Formulir\Formulir\obj\Debug\net7.0-windows\Formulir.dll
+C:\Users\Jacky K\Documents\Kampus\Vispro\Formulir\Formulir\obj\Debug\net7.0-windows\refint\Formulir.dll
+C:\Users\Jacky K\Documents\Kampus\Vispro\Formulir\Formulir\obj\Debug\net7.0-windows\Formulir.pdb
+C:\Users\Jacky K\Documents\Kampus\Vispro\Formulir\Formulir\obj\Debug\net7.0-windows\Formulir.genruntimeconfig.cache
+C:\Users\Jacky K\Documents\Kampus\Vispro\Formulir\Formulir\obj\Debug\net7.0-windows\ref\Formulir.dll
